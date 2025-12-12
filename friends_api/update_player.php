@@ -1,0 +1,1 @@
+{"success":true,"friend_code":"0260095"}
